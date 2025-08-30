@@ -1,0 +1,44 @@
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #ffd7d7;
+  color: #333;
+}
+
+header {
+  background-image:url(background\ img.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align:center ;
+  color: white;
+  
+  padding: 50px ;
+}
+h1 {
+  font-size: 3em;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-shadow: #222;
+  margin: 0;
+}
+.section{
+    border: solid;
+    padding: 10px;
+    height: 101px;
+    width: 48%;
+    margin: 0px auto;
+    background-color: aqua;
+    
+
+}
+.footer{
+  color: aliceblue;
+  background-color: black;
+  padding: 3px;
+  margin-top: 70px;
+  align-items: center;
+  text-align: center;
+
+}
